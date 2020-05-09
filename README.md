@@ -4,16 +4,17 @@
 
 1. [Project Motivation](#motivation)
 2. [File Descriptions](#files)
-3. [Instructions](#instructions)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
+3. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Project Motivation <a name="motivation"></a>
 
 In the time of the Coronavirus outbreak, I decided to train and utilize my data scientist skills to analyze the COVID-19 data to answer some crucial questions asked by the people.
 
+This repository is not longer updated, please refer to the https://www.kaggle.com/danpeczek/be-safe-who-is-in-the-biggest-need-of-ppe if you want to see the latest version - keeping it updated in two places would be very troublesome when it comes to the dataset updates, so I've made decision to keep it on Kaggle, where I can have the biggest flexibility regarding keeping it up to date.
+
 ## File Descriptions <a name="files"></a>
 
-## Instructions <a name="instructions"></a>
+This repository contains one jupyter notebook file where analysis about needs for protective equipment for COVID-19 is required.
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
 
